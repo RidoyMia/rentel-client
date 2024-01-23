@@ -1,0 +1,30 @@
+[
+    {
+        "picture": "https://i.postimg.cc/zBybGJHz/cacdcf67a864f0f2c701065a866d92da.jpg",
+                "name" : "Hridoy",
+                "email" : "Hridoy@gmail.com",
+                "city" : "Dhaka",
+                "address" : "mirpur,dhaka,Bangladesh",
+                "bathrooms" : 3,
+                "bedrooms":4,
+                "roomSize":33,
+                "phone": "013577",
+                "descriptions" : "this is new Spacious [Number of Bedrooms] bedrooms with ample natural light [Number of Bathrooms] well-appointed bathrooms Modern kitchen with [Appliance Features] Open-concept living and dining area, perfect for entertaining Cozy [Type of Flooring] flooring throughout [Other Unique Features, such as a fireplace, large backyard, or stunning views]",
+                "rent" : 27000,
+                "availability" : "12-3-2023"
+    },
+    {
+        "picture": "https://i.postimg.cc/rzXVTZCM/green-wood-beach-house-in-palm-trees-on-sandy-shore-PKCN0-M.jpg",
+                "name" : "Hridoy",
+                "email" : "Hridoy@gmail.com",
+                "city" : "Mowlobibazar",
+                "address" :  "sreemangal,Mowlobibazar,Sylhet,Bangladesh",
+                "bathrooms" : 3,
+                "bedrooms":4,
+                "roomSize":33,
+                "phone": "013577",
+                "descriptions" : "this is new Spacious [Number of Bedrooms] bedrooms with ample natural light [Number of Bathrooms] well-appointed bathrooms Modern kitchen with [Appliance Features] Open-concept living and dining area, perfect for entertaining Cozy [Type of Flooring] flooring throughout [Other Unique Features, such as a fireplace, large backyard, or stunning views]",
+                "rent" : 27000,
+                "availability" : "12-3-2023"
+    }
+]
